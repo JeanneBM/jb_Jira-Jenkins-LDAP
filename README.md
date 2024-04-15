@@ -8,5 +8,5 @@ https://www.addteq.com/blog/2022/04/creating-a-jira-data-center-sandbox-environm
 https://docs.gitlab.com/ee/install/docker.html
 
 ```
-with docker compose all
+with docker compose all / on K8s
 ```
