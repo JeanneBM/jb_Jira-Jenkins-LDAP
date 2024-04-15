@@ -5,4 +5,8 @@ https://www.youtube.com/watch?v=tj3xYFA6Q2o next generation plugin [Jenkins]
 https://www.addteq.com/blog/2022/04/creating-a-jira-data-center-sandbox-environment-using-docker/b
 
 #### Gitlab
+https://docs.gitlab.com/ee/install/docker.html
 
+```
+with docker compose all
+```
